@@ -1,0 +1,6 @@
+{
+    "general" : {
+        "log_level" : "DEBUG",
+        "log_path" : ""
+    }
+}
